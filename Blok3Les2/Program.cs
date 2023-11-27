@@ -15,13 +15,13 @@ for (int i = 1; i<=5; i++ )
     //Maak binnen loop new Auto object aan
     //Vraag aan gebruiker (Merk, Type en Kleur)
     //Stel de eigenschappen in
-    //Voeg toe aan de lijst
+    //Voeg toe aan de lijst Autos
 
 }
 
 
 foreach (Auto auto in Autos)
 {
-    //Druk het volgende af: "Het betreft een <Merk> van het type <Type> in de kleur <Kleur>
-    //Console.WriteLine("   ");
+    //Druk het volgende af voor iedere auto: "Het betreft een <Merk> van het type <Type> in de kleur <Kleur>
+    Console.WriteLine("....");
 }
